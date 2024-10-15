@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake gif](https://github.com/ReaalSATYAM/ReaalSATYAM/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ReaalSATYAM/ReaalSATYAM/blob/dist/github-snake.svg)
 
