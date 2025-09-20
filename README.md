@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ReaalSATYAM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# 📊 Leetcode Stats:
 
+![](https://leetcard.jacoblin.cool/Satyam_Naithani?ext=activity)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
