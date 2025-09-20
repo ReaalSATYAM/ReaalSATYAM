@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 # 📊 Leetcode Stats:
 
-![](https://leetcard.jacoblin.cool/Satyam_Naithani?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Satyam_Naithani?theme=dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
