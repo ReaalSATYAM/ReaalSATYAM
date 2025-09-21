@@ -1,4 +1,15 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td align="left">
+      <h2>Hi there, I'm Satyam Naithani 👋</h2>
+      <p>Welcome to my GitHub profile! Feel free to explore my repositories and check out the projects I've been working on. Here's a little Nyan Cat to brighten your day! </p>
+    </td>
+    <td align="right">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw4Y2puaXNheWprZm0zZ3F0dnA3N282OGo1em16N2MyYWo3Z3dvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/22kxQ12cxyEww/giphy.gif" alt="Nyan Cat" width="150"/>
+    </td>
+  </tr>
+</table>
+
 
 <!--
 **ReaalSATYAM/ReaalSATYAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
